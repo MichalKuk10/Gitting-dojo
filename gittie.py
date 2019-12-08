@@ -9,4 +9,10 @@ def joke():
     print ('So funny hahahah')
 
 def add():
-    print("add")
+    print("add") 
+
+
+def shout(x,z): 
+    if x > z: 
+        return z 
+         
