@@ -9,6 +9,7 @@ def joke():
     print ('So funny hahahah')
 
 def add():
+<<<<<<< Updated upstream
     print("add") 
 
 
@@ -16,3 +17,9 @@ def shout(x,z):
     if x > z: 
         return z 
          
+=======
+    print("add")
+
+def shout():
+    print("fdsfgsgfsd")
+>>>>>>> Stashed changes
